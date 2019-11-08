@@ -1,0 +1,85 @@
+#top{
+    background-color:grey;
+    color:white;
+    display:flex;
+    align-items: center;
+    justify-content: space-between
+
+}
+
+#company{
+    font-size: 25px;
+    margin-left:250px;
+    flex-direction:row;
+
+
+}
+
+#menu{
+    flex-direction: row-reverse;
+    margin-right:250px;
+    
+}
+
+h1{
+    height:25vh;
+    width: 100%;
+    color: yellow;
+    font-size: 50px;
+    background-color:black;
+    margin: 0px;
+    display: flex;
+    justify-content:center;
+    align-items: center
+}
+
+
+#white{
+    height:65vh;
+}
+#green{
+    height:25vh;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#green-box{
+    height:80%;
+    background-color: green;
+    width:20%
+}
+#orange{
+    height:25vh;
+    display:flex;
+    align-items:center;
+    justify-content:space-around
+}
+
+#orange-box{
+    height:80%;
+    width: 40%;
+    background-color:orange;
+}
+
+#last{
+    height:20vh;
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly
+}
+
+#text-box{
+    height:80%;
+    width:35%
+}
+
+#senor-elephante{
+    height: 80%;
+    width:35%
+}
+
+img{
+    width: 100%;
+    height: 100%
+}
